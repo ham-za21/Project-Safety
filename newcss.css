@@ -1,0 +1,38 @@
+
+    
+.container-1{
+    max-width:80%;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: -1%;
+    line-height:1.5;
+    font-family:'Times New Roman', Times, serif;
+
+    
+}
+.container-1>img{
+    float:left;
+    margin:10%;
+    margin-top:-1%;
+
+}
+
+.container-2{
+    max-width:100%;
+    margin-left: auto;
+    padding:5%;
+    font-family:'Times New Roman', Times, serif;
+    
+
+}
+
+.container-2>img{
+    float:right;
+  
+    .span{
+         font-size: 20px;
+    }
+
+    
+
+}
